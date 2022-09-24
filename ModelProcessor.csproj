@@ -8,6 +8,7 @@
     <ToolCommandName>hypar-model-processor</ToolCommandName>
     <PackageOutputPath>./nupkg</PackageOutputPath>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/hypar-io/ModelProcessor</PackageProjectUrl>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Hypar.Elements" Version="1.2.0-alpha.31" />
